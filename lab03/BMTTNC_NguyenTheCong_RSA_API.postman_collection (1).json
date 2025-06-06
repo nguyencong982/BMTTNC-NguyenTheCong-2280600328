@@ -1,0 +1,55 @@
+{
+	"info": {
+		"_postman_id": "1e6fcabf-2179-4d2a-a13c-08b2892b0528",
+		"name": "BMTTNC_NguyenTheCong_RSA_API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45229336"
+	},
+	"item": [
+		{
+			"name": "RSA Cipher API",
+			"item": [
+				{
+					"name": "Generate RSA Keys",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
